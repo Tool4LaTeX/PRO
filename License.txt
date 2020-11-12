@@ -10,3 +10,4 @@
 1.0.3.12: The trial version: Auto update.
 1.0.3.13: The official version: Auto update, Welcome screen.
 1.0.3.14: The trial version: New icon, import data to question bank
+1.0.3.15: The official version:\n  New icon and wait screen.\n  Fix auto update.\n Import data to question bank.
