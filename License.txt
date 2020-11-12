@@ -9,4 +9,4 @@
 1.0.3.11: Fix check license for user. Optimize Word2LaTeX.
 1.0.3.12: The trial version: Auto update.
 1.0.3.13: The official version: Auto update, Welcome screen.
-1.0.3.14: The trial version: New icon, import data to question bank.
+1.0.3.14: The trial version: New icon, import data to question bank
