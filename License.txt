@@ -16,5 +16,5 @@
   Import data to question bank.
 1.0.3.16: The trial version: Import data to question bank.
 1.0.3.17: The official version:
-  Import data to question bank
+  Import data to question bank.
   Optimizing Tool ID, get question from bank by ID.
