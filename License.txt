@@ -1,4 +1,4 @@
-1.0.3.16
+1.0.3.17
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -11,3 +11,5 @@
 1.0.3.13: The official version: Auto update, Welcome screen.
 1.0.3.14: The trial version: New icon, import data to question bank
 1.0.3.15: The official version:\n  New icon and wait screen.\n  Fix auto update.\n Import data to question bank.
+1.0.3.16: The trial version:\n  Import data to question bank\n  Optimizing Tool ID, get question from bank by ID.
+1.0.3.17: The official version:\n  Import data to question bank\n  Optimizing Tool ID, get question from bank by ID.
