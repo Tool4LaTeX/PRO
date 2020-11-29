@@ -1,4 +1,4 @@
-1.0.3.18
+1.0.3.19
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -19,3 +19,4 @@
   Import data to question bank.
   Optimizing Tool ID, get question from bank by ID.
 1.0.3.18: The trial version: update new form: mixing tool.
+1.0.3.19: The official version: creat some test form matrix.
