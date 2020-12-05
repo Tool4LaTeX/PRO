@@ -21,4 +21,4 @@
 1.0.3.18: The trial version: update new form: mixing tool.
 1.0.3.19: The official version: creat some tests from matrix.
 1.0.3.20: The trial version: fix matrix.
-1.0.3.21: The official version: tikz2image.
+1.0.3.21 (06/12/20): The official version: tikz2image.
