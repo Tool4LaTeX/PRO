@@ -22,4 +22,4 @@
 1.0.3.19: The official version: creat some tests from matrix.
 1.0.3.20: The trial version: fix matrix.
 1.0.3.21 (06/12/20): The official version: tikz2image.
-1.0.3.22 (08/12/20): The trial version: latex2word with import image from Tikz.
+1.0.3.22 (09/12/20): The trial version: latex2word with import image from Tikz.
