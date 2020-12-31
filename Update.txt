@@ -1,5 +1,4 @@
-1.1.7
+1.1.6
 1.1.6 (01/01/21):
   New icon and wait screen.
   Auto update.
-  
