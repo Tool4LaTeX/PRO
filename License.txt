@@ -1,4 +1,4 @@
-1.0.3.25
+1.0.3.26
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -26,3 +26,4 @@
 1.0.3.23 (11/12/20): The official version: New full Tikz Tool Gui.
 1.0.3.24 (17/12/20): TikzTool with convert Tikz2Word.
 1.0.3.25 (25/12/20): Update LaTeX2Word New full Tikz Tool Gui.
+1.0.3.26 (01/01/21): Improve bank input with more options.
