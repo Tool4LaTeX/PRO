@@ -1,4 +1,8 @@
-1.1.6
+1.1.8
 1.1.6 (01/01/21):
-  New icon and wait screen.
-  Auto update.
+  Thêm icon mới và màn hình chờI.
+  Tự động update.
+1.1.7 (10/01/21):
+  Thêm tùy chọn cho bảng biến thiên.
+1.1.8 (11/01/21):
+  Thêm tùy chọn cho vẽ đồ thị hàm số.
