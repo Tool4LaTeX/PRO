@@ -1,4 +1,4 @@
-1.0.3.33
+1.0.3.34
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -30,14 +30,10 @@
 1.0.3.27 (04/01/21): Add option for table of variation.
 1.0.3.28 (09/01/21): Add option for LaTeX2Word Tool.
 1.0.3.29 (10/01/21): Add option for draw Graph Tool.
-1.0.3.30 (10/01/21):
-  PLEASE DON'T USE VERSION 1.0.29 AND EARLIER (Xin vui lòng không sử dụng T4L-PRO phiên bản 1.0.3.29 trở về trước).
-  Fix Word2LaTeX Tool.
-1.0.3.31 (16/01/21):
-  PLEASE DON'T USE VERSION 1.0.29 AND EARLIER (Xin vui lòng không sử dụng T4L-PRO phiên bản 1.0.3.29 trở về trước).
-  Add Matrix Manager (Thêm công cụ quản lí ma trận đề).
+1.0.3.30 (10/01/21): Fix Word2LaTeX Tool.
+1.0.3.31 (16/01/21): Add Matrix Manager (Thêm công cụ quản lí ma trận đề).
 1.0.3.32 (19/01/21):
   Add option: allowing ID5 for bank input Tool (Cho phép nhập ID5 vào ngân hàng, kiểm tra chuẩn hóa).
   Fix image GUI in TikzTool (Sửa lỗi hiển thị hình ảnh trong TikzTool).
-1.0.3.33 (20/01/21):
-  Auto find and check True for Quiz (Tự động tìm kiếm phương án đúng cho câu hỏi trắc nghiệm).
+1.0.3.33 (20/01/21): Auto find and check True for Quiz (Tự động tìm kiếm phương án đúng cho câu hỏi trắc nghiệm).
+1.0.3.34 (25/01/21): Add Convert Tool (dethi2extest) (Thêm công cụ convert gói dethi (question) sang gói ex_test).
