@@ -1,4 +1,4 @@
-1.0.3.34
+1.0.3.35
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -37,3 +37,4 @@
   Fix image GUI in TikzTool (Sửa lỗi hiển thị hình ảnh trong TikzTool).
 1.0.3.33 (20/01/21): Auto find and check True for Quiz (Tự động tìm kiếm phương án đúng cho câu hỏi trắc nghiệm).
 1.0.3.34 (25/01/21): Add Convert Tool (dethi2extest) (Thêm công cụ convert gói dethi (question) sang gói ex_test).
+1.0.3.35 (28/01/21): TNMaker Tool and Convert Solar2Lunar, Lunar2Solar Calendar (Công cụ lấy đáp án cho TNMaker và chuyển đổi lịch Âm, Dương).
