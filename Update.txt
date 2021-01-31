@@ -1,4 +1,4 @@
-1.1.8
+1.1.9
 1.1.6 (01/01/21):
   Thêm icon mới và màn hình chờI.
   Tự động update.
@@ -6,3 +6,5 @@
   Thêm tùy chọn cho bảng biến thiên.
 1.1.8 (11/01/21):
   Thêm tùy chọn cho vẽ đồ thị hàm số.
+1.1.9 (01/02/21):
+  Thêm Tool convert dethi2ex_test (question).
