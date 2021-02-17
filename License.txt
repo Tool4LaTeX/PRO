@@ -1,4 +1,4 @@
-1.0.3.36
+1.0.3.37
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -39,3 +39,4 @@
 1.0.3.34 (25/01/21): Add Convert Tool (dethi2extest) (Thêm công cụ convert gói dethi (question) sang gói ex_test).
 1.0.3.35 (28/01/21): TNMaker Tool and Convert Solar2Lunar, Lunar2Solar Calendar (Công cụ lấy đáp án cho TNMaker và chuyển đổi lịch Âm, Dương).
 1.0.3.36 (01/02/21): Convert Word2LaTeX can use *.doc format (Công cụ chuyển Word sang LaTeX có thể ấp dụng thêm định dang .doc)
+1.0.3.37 (17/02/21): Get answers from LaTeX to Excel file (add a option Excel in mix Tool) (Lấy đáp án vào file Excel, hỗ trợ tùy chọn Excel trong công cụ trộn đề).
