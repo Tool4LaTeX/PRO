@@ -1,4 +1,4 @@
-1.0.3.39
+1.0.3.40
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -42,3 +42,4 @@
 1.0.3.37 (17/02/21): Get answers from LaTeX to Excel file (add a option Excel in mix Tool) (Lấy đáp án vào file Excel, hỗ trợ tùy chọn Excel trong công cụ trộn đề).
 1.0.3.38 (12/03/21): Get answers from Word to TNMaker form (Lấy đáp án của file word cho in ra TNMaker).
 1.0.3.39 (18/04/21): Improve Tool LaTeX2Word (Image Option) (Cải tiến Tool convert LaTeX2Word - Các tùy chọn về hình ảnh).
+1.0.3.40 (21/04/21): Tool LaTeX2Word Tutorial (Hướng dẫn Tool LaTeX2Word và cải tiến thuật toán). Người dùng cần cập nhật thêm code VBA trong group Tool4LaTeX-PRO.
