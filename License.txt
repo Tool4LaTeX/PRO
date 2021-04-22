@@ -1,4 +1,4 @@
-1.0.3.40
+1.0.3.41
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -43,3 +43,5 @@
 1.0.3.38 (12/03/21): Get answers from Word to TNMaker form (Lấy đáp án của file word cho in ra TNMaker).
 1.0.3.39 (18/04/21): Improve Tool LaTeX2Word (Image Option) (Cải tiến Tool convert LaTeX2Word - Các tùy chọn về hình ảnh).
 1.0.3.40 (21/04/21): Tool LaTeX2Word Tutorial (Hướng dẫn Tool LaTeX2Word và cải tiến thuật toán). Người dùng cần cập nhật thêm code VBA trong group Tool4LaTeX-PRO.
+1.0.3.40beta (22/04/21 - 17h): Bản cập nhật lúc 17h ngày 22/04/2021, nếu bạn đã upadte rồ, nhấn "No" để bỏ qua.
+Tool fix các lỗi của Tool LaTeX2Word và Word2LaTeX. Khi fix lỗi toàn bộ xong, Tool sẽ lên bản 1.0.3.41 chính thức (trong phiên bản này các bản quyền vĩnh viễn sẽ không cần kết nối internet vẫn có thể dùng Tool PRO).
