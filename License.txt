@@ -1,4 +1,4 @@
-1.0.3.41
+1.0.3.42
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -44,3 +44,4 @@
 1.0.3.39 (18/04/21): Improve Tool LaTeX2Word (Image Option) (Cải tiến Tool convert LaTeX2Word - Các tùy chọn về hình ảnh).
 1.0.3.40 (21/04/21): Tool LaTeX2Word Tutorial (Hướng dẫn Tool LaTeX2Word và cải tiến thuật toán). Người dùng cần cập nhật thêm code VBA trong group Tool4LaTeX-PRO.
 1.0.3.41 (24/04/21): Tool fix các lỗi của Tool LaTeX2Word và Word2LaTeX. Bản quyền vĩnh viễn sẽ không cần kết nối internet vẫn có thể dùng Tool PRO.
+1.0.3.42 (29/04/21): Tối ưu hóa Word2LaTeX. Một file chuẩn có thể one-click tạo ra file không cần chỉnh sửa. Mọi người cần kiểm tra chuẩn hóa xong thì chọn full option tối ưu để tạo ra sản phẩm hoàn chỉnh.
