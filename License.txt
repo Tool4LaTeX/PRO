@@ -47,4 +47,4 @@
 1.0.3.42 (29/04/21): Tối ưu hóa Word2LaTeX. Một file chuẩn có thể one-click tạo ra file không cần chỉnh sửa. Mọi người cần kiểm tra chuẩn hóa xong thì chọn full option tối ưu để tạo ra sản phẩm hoàn chỉnh.
 1.0.3.43 (29/05/21): [Tool Extest2Beamer] Chuyển đề thi dạng ex_test sang Beamer (môi trường {ex}).
 1.0.3.44 (15/06/21): [Tool LaTeX2Word] Chuyển đề thi dạng Trắc nghiệm và tự luận. Thêm phần cập nhật thủ công.
-1.0.3.45 (20/06/21): [Tool Pdf2LaTeX-demo] Chuyển đề thi PDF dạng Trắc nghiệm và tự luận bằng MathPix Snipping Tool, xuất sang PDF.
+1.0.3.45 (20/06/21): [Tool Pdf2LaTeX-demo] Chuyển đề thi PDF dạng Trắc nghiệm và tự luận bằng MathPix Snipping Tool, xuất sang LaTeX.
