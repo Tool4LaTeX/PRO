@@ -1,4 +1,4 @@
-1.0.3.45
+1.0.3.46
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -48,3 +48,4 @@
 1.0.3.43 (29/05/21): [Tool Extest2Beamer] Chuyển đề thi dạng ex_test sang Beamer (môi trường {ex}).
 1.0.3.44 (15/06/21): [Tool LaTeX2Word] Chuyển đề thi dạng Trắc nghiệm và tự luận. Thêm phần cập nhật thủ công.
 1.0.3.45 (20/06/21): [Tool Pdf2LaTeX-demo] Chuyển đề thi PDF dạng Trắc nghiệm và tự luận bằng MathPix Snipping Tool, xuất sang LaTeX.
+1.0.3.46 (22/06/21): [Tool Pdf2LaTeX] Chuyển đề thi PDF dạng Trắc nghiệm và tự luận bằng MathPix Snipping Tool, xuất sang LaTeX.
