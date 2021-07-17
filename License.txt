@@ -50,4 +50,4 @@
 1.0.3.45 (20/06/21): [Tool Pdf2LaTeX-demo] Chuyển đề thi PDF dạng Trắc nghiệm và tự luận bằng MathPix Snipping Tool, xuất sang LaTeX.
 1.0.3.46 (22/06/21): [Tool Pdf2LaTeX] Chuyển đề thi PDF dạng Trắc nghiệm và tự luận bằng MathPix Snipping Tool, xuất sang LaTeX.
 1.0.3.47 (25/06/21): [Tool Pdf2LaTeX] Thêm chế độ convert thông minh. Báo lỗi sai convert
-1.0.3.48 (16/07/21): [Tool Pdf2LaTeX] Tool convert thông minh hơn. Thêm Icon của Tool
+1.0.3.48 (17/07/21): [Tool Pdf2LaTeX] Tool convert thông minh hơn. Nạp đáp án đúng cho file TeX.
