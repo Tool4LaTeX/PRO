@@ -1,4 +1,4 @@
-1.0.3.50
+1.0.3.51
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -53,3 +53,4 @@
 1.0.3.48 (17/07/21): [Tool Pdf2LaTeX] Tool convert thông minh hơn. Nạp đáp án đúng cho file TeX.
 1.0.3.49 (18/07/21): [Fast Tool] Tool tìm câu tương tự.
 1.0.3.50 (19/07/21): [Fast Tool] Tool tìm và xóa cặp câu tương tự.
+1.0.3.51 (23/08/21): Bổ sung hướng dẫn sử dụng các Tool, thay đổi giao diện (Coffee Bean).
