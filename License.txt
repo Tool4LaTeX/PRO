@@ -54,4 +54,4 @@
 1.0.3.49 (18/07/21): [Fast Tool] Tool tìm câu tương tự.
 1.0.3.50 (19/07/21): [Fast Tool] Tool tìm và xóa cặp câu tương tự.
 1.0.3.51 (23/08/21): Vá lỗi khởi động chậm (do một serve trang web bị sập), tăng tốc từ 5 phút khởi động thành 5-30s. Bổ sung hướng dẫn sử dụng các Tool, thay đổi giao diện (Coffee Bean).
-1.0.3.52 (26/09/21): Vá lỗi khởi động chậm (do một serve trang web bị sập), tăng tốc từ 5 phút khởi động thành 5-30s. Bổ sung hướng dẫn sử dụng các Tool, thay đổi giao diện (Coffee Bean).
+1.0.3.52 (26/09/21): [E-tools] Công cụ chuyển từ Ex_test sang Pdf để upload lên Azota.
