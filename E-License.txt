@@ -1,2 +1,2 @@
-1.1
+1.0
 1.0 (05/10/2021) [Tool4LaTeX-ε] Phiên bản Education đầu tiên dành cho sinh viên sư phạm cả nước.
