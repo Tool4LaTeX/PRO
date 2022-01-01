@@ -1,4 +1,4 @@
-1.0.3.55
+1.0.3.56
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -58,3 +58,4 @@
 1.0.3.53 (03/10/21): [Word Tool] Tối ưu hóa công cụ Word2LaTeX và LaTeX2Word.
 1.0.3.54 (05/10/21): [License] Tối ưu hóa tốc độ khởi động và kiểm tra bản quyền.
 1.0.3.55 (20/11/21): [LaTeX2Word] Thêm tùy chọn chuyển sang Microsoft Form.
+1.0.3.56 (01/01/22): Kế hoạch miễn phí Tool4LaTeX-PRO.
