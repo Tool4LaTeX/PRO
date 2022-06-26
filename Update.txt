@@ -15,4 +15,4 @@
 1.2.3 (01/02/22):
   Miễn phí Tool4LaTeX-PRO.
 1.2.4 (26/06/22):
-  Fix một số lỗi.
+  Fix một số lỗi trộn đề, word2latex.
