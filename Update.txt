@@ -1,4 +1,4 @@
-1.2.3
+1.2.4
 1.1.6 (01/01/21):
   Thêm icon mới và màn hình chờI.
   Tự động update.
@@ -14,3 +14,5 @@
   Chuẩn bị miễn phí toàn bộ Tool4LaTeX-PRO
 1.2.3 (01/02/22):
   Miễn phí Tool4LaTeX-PRO.
+1.2.4 (26/06/22):
+  Fix một số lỗi.
