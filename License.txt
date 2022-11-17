@@ -59,4 +59,5 @@
 1.0.3.54 (05/10/21): [License] Tối ưu hóa tốc độ khởi động và kiểm tra bản quyền.
 1.0.3.55 (20/11/21): [LaTeX2Word] Thêm tùy chọn chuyển sang Microsoft Form.
 1.0.3.56 (01/01/22): Kế hoạch miễn phí Tool4LaTeX-PRO.
-1.0.3.57 (20/11/22): Cải thiện Tool Word2LaTeX và Convert MathPiX.
+1.0.3.57 (16/11/22): Cải thiện Tool Word2LaTeX và Convert MathPiX.
+1.0.3.58 (18/11/22): Chuẩn hóa Toán cho Word2LaTeX và tăng tốc độ với VBA bản 1.0.3.58.
