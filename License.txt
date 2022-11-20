@@ -1,4 +1,4 @@
-1.0.3.58
+1.0.3.59
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -61,3 +61,4 @@
 1.0.3.56 (01/01/22): Kế hoạch miễn phí Tool4LaTeX-PRO.
 1.0.3.57 (16/11/22): Cải thiện Tool Word2LaTeX và Convert MathPiX.
 1.0.3.58 (18/11/22): Chuẩn hóa Toán cho Word2LaTeX và tăng tốc độ với VBA bản 1.0.3.58.
+1.0.3.59 (20/11/22): [Word2LaTeX] Thêm các tùy chọn về chuyển đổi công thức toán và các môi trường.
