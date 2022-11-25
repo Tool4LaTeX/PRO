@@ -69,3 +69,4 @@
 3. Cần xác nhận cho phép overwrite lên thư mục cũ, file cũ (nếu trùng file đã trộn).
 [Word2LaTeX]
 1. Tạo tự động tên thư mục, tên file, cho phép ghi trên thư mục cũ.
+1.0.3.61 (01/12/22): [Word2LaTeX] Thêm phát hiện lỗi và cách sửa lỗi của Tool, hạn chế file Word chạy ngầm (Nếu có khi đóng file, người dùng cần nhấn Save hoặc Don't save).
