@@ -1,4 +1,4 @@
-1.0.3.60
+1.0.3.61
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -69,4 +69,8 @@
 3. Cần xác nhận cho phép overwrite lên thư mục cũ, file cũ (nếu trùng file đã trộn).
 [Word2LaTeX]
 1. Tạo tự động tên thư mục, tên file, cho phép ghi trên thư mục cũ.
-1.0.3.61 (01/12/22): [Word2LaTeX] Thêm phát hiện lỗi và cách sửa lỗi của Tool, hạn chế file Word chạy ngầm (Nếu có khi đóng file, người dùng cần nhấn Save hoặc Don't save).
+1.0.3.61 (01/12/22):
+[Word2LaTeX] 
+1. Thêm phát hiện lỗi và cách sửa lỗi của Tool, hạn chế file Word chạy ngầm (Nếu có khi đóng file, người dùng cần nhấn Save hoặc Don't save). 
+2. Tự động tìm và sửa lỗi sai trong môi trường {bt} và môi trường {ex} (còn tiếp). 
+[LaTeX2Word] Thêm tùy chọn random các đáp án và đưa đáp án đúng về A. Chọn tùy chọn "Đáp án đúng = A".
