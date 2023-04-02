@@ -74,3 +74,5 @@
 1. Thêm phát hiện lỗi và cách sửa lỗi của Tool, hạn chế file Word chạy ngầm (Nếu có khi đóng file, người dùng cần nhấn Save hoặc Don't save). 
 2. Tự động tìm và sửa lỗi sai trong môi trường {bt} và môi trường {ex} (còn tiếp). 
 [LaTeX2Word] Thêm tùy chọn random các đáp án và đưa đáp án đúng về A. Chọn tùy chọn "Đáp án đúng = A".
+1.0.3.62 (02/04/23):
+Cải thiện Tool Word2LaTeX
