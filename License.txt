@@ -1,4 +1,4 @@
-1.0.3.62
+1.0.3.63
 1.0.1.01: Thêm Tool Word2LaTeX (chuyển Word sang code LaTeX).
 1.0.2.01: Thêm Tool LaTeX2Word (chuyển code LaTeX sang Word).
 1.0.3.01: Tool LaTeX2Image (chuyển code LaTeX sang hình ảnh).
@@ -76,3 +76,5 @@
 [LaTeX2Word] Thêm tùy chọn random các đáp án và đưa đáp án đúng về A. Chọn tùy chọn "Đáp án đúng = A".
 1.0.3.62 (02/04/23):
 Cải thiện Tool Word2LaTeX
+1.0.3.63 (02/04/23):
+Gán ID6 theo ba bộ sách mới (Lớp 10).
