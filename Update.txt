@@ -1,4 +1,4 @@
-1.2.5
+1.2.6
 1.1.6 (01/01/21):
   Thêm icon mới và màn hình chờ.
   Tự động update.
@@ -17,4 +17,6 @@
 1.2.4 (26/06/22):
   Fix một số lỗi trộn đề, word2latex.
 1.2.5 (20/11/22):
-  [ord2latex] Tối ưu hóa sửa lỗi, làm sạch code và chuẩn hóa.
+  [Word2latex] Tối ưu hóa sửa lỗi, làm sạch code và chuẩn hóa.
+1.2.6 (03/04/23):
+  [Tool ID] Cập nhật Tool ID lớp 10 với 3 bộ sách CTST, Cánh Diều và KNTT.
