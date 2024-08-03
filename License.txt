@@ -80,3 +80,5 @@ Cải thiện Tool Word2LaTeX
 Gán ID6 theo ba bộ sách mới (Lớp 10).
 1.0.3.64 (19/04/24):
 Gán ID theo file mapID. Người dùng có thể tùy chỉnh theo cá nhân.
+1.0.3.65 (03/08/24):
+Word2LaTeX: Mở rộng thêm kiểu TN đúng-sai, TN trả lời ngắn, tự do (plain Tex, ví dụ như lý thuyết, văn bản, v.v...).
