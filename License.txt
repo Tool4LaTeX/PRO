@@ -2,3 +2,4 @@
 Sửa lỗi ngân hàng đề thi, Tool ID (gán, lọc), Bảng BT.
 1.0.3.67 (08/08/24):
 Thêm các tùy chọn vẽ đồ thị, chọn vị trí cho nhãn các điểm trên trục hoành, trục tung.
+
