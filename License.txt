@@ -84,3 +84,5 @@ Gán ID theo file mapID. Người dùng có thể tùy chỉnh theo cá nhân.
 Word2LaTeX: Mở rộng thêm kiểu TN đúng-sai, TN trả lời ngắn, tự do (plain Tex, ví dụ như lý thuyết, văn bản, v.v...).
 1.0.3.66 (07/08/24):
 Sửa lỗi ngân hàng đề thi, Tool ID (gán, lọc), Bảng BT.
+1.0.3.67 (08/08/24):
+Thêm các tùy chọn vẽ đồ thị, chọn vị trí cho nhãn các điểm trên trục hoành, trục tung.
