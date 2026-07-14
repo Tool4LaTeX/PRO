@@ -1,2 +1,2 @@
 1.0.1: ConvertTool\Word2LaTeX
-1.0.2: AutoUpdate
+
