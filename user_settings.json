@@ -1,0 +1,9 @@
+{
+    "colors": {
+        "N": "#ccffcc",
+        "H": "#cce5ff",
+        "V": "#e5ccff",
+        "C": "#ffcccc"
+    },
+    "latex_preamble": ""
+}
